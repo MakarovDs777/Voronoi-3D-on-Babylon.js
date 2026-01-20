@@ -21,3 +21,5 @@
 [Voronoi 3D (version 8 - Laser security in a 3D cube) | Babylon.js Playground](https://playground.babylonjs.com/#UFY7WR#0)
 
 [Voronoi 3D (version 9 - A box of packed balls) | Babylon.js Playground](https://playground.babylonjs.com/#2NQYLS#0)
+
+Продолжение темы смотрете -> [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js).
