@@ -22,4 +22,4 @@
 
 [Voronoi 3D (version 9 - A box of packed balls) | Babylon.js Playground](https://playground.babylonjs.com/#2NQYLS#0)
 
-Продолжение темы смотрете -> [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js).
+Продолжение темы смотрите -> [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js).
