@@ -22,4 +22,6 @@
 
 [Voronoi 3D (version 9 - A box of packed balls) | Babylon.js Playground](https://playground.babylonjs.com/#2NQYLS#0)
 
+[Voronoi 3D (version 10 - A box of packed balls with inertia of repulsion and deformation) | Babylon.js Playground](https://playground.babylonjs.com/#RAQ7O0#0)
+
 Продолжение темы смотрите -> [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js).
